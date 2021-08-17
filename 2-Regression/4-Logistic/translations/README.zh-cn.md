@@ -2,7 +2,7 @@
 
 ![逻辑与线性回归信息图](../images/logistic-linear.png)
 > 作者[Dasani Madipalli](https://twitter.com/dasani_decoded)
-## [课前测](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/15/)
+## [课前测](https://white-water-09ec41f0f.azurestaticapps.net/quiz/15/)
 
 ## 介绍
 
@@ -120,7 +120,7 @@ Seaborn提供了一些巧妙的方法来可视化你的数据。例如，你可�
     sns.swarmplot(x="Color", y="Item Size", data=new_pumpkins)
     ```
 
-    ![分类散点图可视化数据](images/swarm.png)
+    ![分类散点图可视化数据](../images/swarm.png)
 
 ### 小提琴图
 
@@ -133,7 +133,7 @@ Seaborn提供了一些巧妙的方法来可视化你的数据。例如，你可�
                 kind="violin", data=new_pumpkins)
     ```
 
-    ![小提琴图](images/violin.png)
+    ![小提琴图](../images/violin.png)
 
     ✅ 尝试使用其他变量创建此图和其他Seaborn图。
 
@@ -228,19 +228,15 @@ Seaborn提供了一些巧妙的方法来可视化你的数据。例如，你可�
 - 如果你的模型将某物预测为南瓜并且它实际上属于“非南瓜”类别，我们将其称为假阴性，由左下角的数字显示。
 - 如果你的模型预测某物不是南瓜，并且它实际上属于“非南瓜”类别，我们将其称为真阴性，如右下角的数字所示。
 
-![混淆矩阵](../images/confusion-matrix.png)
-
-> 作者[Jen Looper](https://twitter.com/jenlooper)
-
 正如你可能已经猜到的那样，最好有更多的真阳性和真阴性以及较少的假阳性和假阴性，这意味着模型性能更好。
 
 ✅ Q：根据混淆矩阵，模型怎么样？ A：还不错；有很多真阳性，但也有一些假阴性。
 
 让我们借助混淆矩阵对TP/TN和FP/FN的映射，重新审视一下我们之前看到的术语：
 
-🎓 准确率：TP/（TP+FN）检索实例中相关实例的分数（例如，哪些标签标记得很好）
+🎓 准确率：TP/(TP + FP) 检索实例中相关实例的分数（例如，哪些标签标记得很好）
 
-🎓 召回率: TP/(TP + FP) 检索到的相关实例的比例，无论是否标记良好
+🎓 召回率: TP/(TP + FN) 检索到的相关实例的比例，无论是否标记良好
 
 🎓 F1分数: (2 * 准确率 * 召回率)/(准确率 + 召回率) 准确率和召回率的加权平均值，最好为1，最差为0
 
@@ -286,7 +282,7 @@ print(auc)
 
 关于逻辑回归，还有很多东西需要解开！但最好的学习方法是实验。找到适合此类分析的数据集并用它构建模型。你学到了什么？小贴士：尝试[Kaggle](https://kaggle.com)获取有趣的数据集。
 
-## [课后测](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/16/)
+## [课后测](https://white-water-09ec41f0f.azurestaticapps.net/quiz/16/)
 
 ## 复习与自学
 

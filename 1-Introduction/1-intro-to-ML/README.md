@@ -4,7 +4,7 @@
 
 > 🎥 Click the image above for a video discussing the difference between machine learning, AI, and deep learning.
 
-## [Pre-lecture quiz](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/1/)
+## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/1/)
 
 ### Introduction
 
@@ -96,11 +96,13 @@ In the near future, understanding the basics of machine learning is going to be 
 
 Sketch, on paper or using an online app like [Excalidraw](https://excalidraw.com/), your understanding of the differences between AI, ML, deep learning, and data science. Add some ideas of problems that each of these techniques are good at solving.
 
-## [Post-lecture quiz](https://jolly-sea-0a877260f.azurestaticapps.net/quiz/2/)
+## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/2/)
 
 ## Review & Self Study
 
 To learn more about how you can work with ML algorithms in the cloud, follow this [Learning Path](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=academic-15963-cxa).
+
+Take a [Learning Path](https://docs.microsoft.com/learn/modules/introduction-to-machine-learning/?WT.mc_id=academic-15963-cxa) about the basics of ML.
 
 ## Assignment
 
