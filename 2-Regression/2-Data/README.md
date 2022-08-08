@@ -4,7 +4,7 @@
 
 Infographic by [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/11/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/11/)
 
 > ### [This lesson is available in R!](./solution/R/lesson_2-R.ipynb)
 
@@ -25,13 +25,13 @@ In this lesson, you will learn:
 
 The question you need answered will determine what type of ML algorithms you will leverage. And the quality of the answer you get back will be heavily dependent on the nature of your data.
 
-Take a look at the [data](../data/US-pumpkins.csv) provided for this lesson. You can open this .csv file in VS Code. A quick skim immediately shows that there are blanks and a mix of strings and numeric data. There's also a strange column called 'Package' where the data is a mix between 'sacks', 'bins' and other values. The data, in fact, is a bit of a mess.
+Take a look at the [data](https://github.com/microsoft/ML-For-Beginners/blob/main/2-Regression/data/US-pumpkins.csv) provided for this lesson. You can open this .csv file in VS Code. A quick skim immediately shows that there are blanks and a mix of strings and numeric data. There's also a strange column called 'Package' where the data is a mix between 'sacks', 'bins' and other values. The data, in fact, is a bit of a mess.
 
 In fact, it is not very common to be gifted a dataset that is completely ready to use to create a ML model out of the box. In this lesson, you will learn how to prepare a raw dataset using standard Python libraries. You will also learn various techniques to visualize the data.
 
 ## Case study: 'the pumpkin market'
 
-In this folder you will find a .csv file in the root `data` folder called [US-pumpkins.csv](../data/US-pumpkins.csv) which includes 1757 lines of data about the market for pumpkins, sorted into groupings by city. This is raw data extracted from the [Specialty Crops Terminal Markets Standard Reports](https://www.marketnews.usda.gov/mnp/fv-report-config-step1?type=termPrice) distributed by the United States Department of Agriculture.
+In this folder you will find a .csv file in the root `data` folder called [US-pumpkins.csv](https://github.com/microsoft/ML-For-Beginners/blob/main/2-Regression/data/US-pumpkins.csv) which includes 1757 lines of data about the market for pumpkins, sorted into groupings by city. This is raw data extracted from the [Specialty Crops Terminal Markets Standard Reports](https://www.marketnews.usda.gov/mnp/fv-report-config-step1?type=termPrice) distributed by the United States Department of Agriculture.
 
 ### Preparing data
 
@@ -196,7 +196,7 @@ To get charts to display useful data, you usually need to group the data somehow
 
 Explore the different types of visualization that Matplotlib offers. Which types are most appropriate for regression problems?
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/12/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/12/)
 
 ## Review & Self Study
 

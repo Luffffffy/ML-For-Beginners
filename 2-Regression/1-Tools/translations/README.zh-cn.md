@@ -4,7 +4,7 @@
 
 > 作者 [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [课前测](https://white-water-09ec41f0f.azurestaticapps.net/quiz/9/)
+## [课前测](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/9/)
 ## 介绍
 
 在这四节课中，你将了解如何构建回归模型。我们将很快讨论这些是什么。但在你做任何事情之前，请确保你有合适的工具来开始这个过程！
@@ -194,7 +194,7 @@ Scikit-learn 使构建模型和评估它们的使用变得简单。它主要侧�
 
 从这个数据集中绘制一个不同的变量。提示：编辑这一行：`X = X[:, np.newaxis, 2]`。鉴于此数据集的目标，你能够发现糖尿病作为一种疾病的进展情况吗？
 
-## [课后测](https://white-water-09ec41f0f.azurestaticapps.net/quiz/10/)
+## [课后测](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/10/)
 
 ## 复习与自学 
 
