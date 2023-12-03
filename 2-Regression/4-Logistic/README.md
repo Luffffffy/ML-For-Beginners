@@ -4,7 +4,7 @@
 
 ## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/15/)
 
-> ### [This lesson is available in R!](./solution/R/lesson_4-R.ipynb)
+> ### [This lesson is available in R!](./solution/R/lesson_4.html)
 
 ## Introduction
 
@@ -35,13 +35,13 @@ For our purposes, we will express this as a binary: 'White' or 'Not White'. Ther
 
 Logistic regression differs from linear regression, which you learned about previously, in a few important ways.
 
-[![ML for beginners - Logistic Regression for classification of data](https://img.youtube.com/vi/MmZS2otPrQ8/0.jpg)](https://youtu.be/MmZS2otPrQ8 "ML for beginners - Logistic Regression for classification of data")
+[![ML for beginners - Understanding Logistic Regression for Machine Learning Classification](https://img.youtube.com/vi/KpeCT6nEpBY/0.jpg)](https://youtu.be/KpeCT6nEpBY "ML for beginners - Understanding Logistic Regression for Machine Learning Classification")
 
 > 🎥 Click the image above for a short video overview of logistic regression.
 
 ### Binary classification
 
-Logistic regression does not offer the same features as linear regression. The former offers a prediction about a binary category ("orange or not orange") whereas the latter is capable of predicting continual values, for example given the origin of a pumpkin and the time of harvest, _how much its price will rise_.
+Logistic regression does not offer the same features as linear regression. The former offers a prediction about a binary category ("white or not white") whereas the latter is capable of predicting continual values, for example given the origin of a pumpkin and the time of harvest, _how much its price will rise_.
 
 ![Pumpkin classification Model](./images/pumpkin-classifier.png)
 > Infographic by [Dasani Madipalli](https://twitter.com/dasani_decoded)
